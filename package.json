@@ -1,0 +1,23 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "A small electron app to get familiar",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "commit": "npx git-cz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony-Lau/Electron.git"
+  },
+  "author": "Anthony Lau",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anthony-Lau/Electron/issues"
+  },
+  "homepage": "https://github.com/Anthony-Lau/Electron#readme",
+  "devDependencies": {
+    "electron": "^4.0.1"
+  }
+}
